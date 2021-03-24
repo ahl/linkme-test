@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 lib = { path = "../lib" }
-linkme = "0.2"
+linkme = "=0.2.4"
